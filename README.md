@@ -24,3 +24,10 @@ This project implements a complete machine learning pipeline for the classic Iri
 ---
 
 ## 📂 Project Structure
+Iris_Classification/
+├── iris_classification_main.ipynb
+├── streamlitapi.py
+├── model.pkl
+├── scaler.pkl
+├── requirements.txt
+└── README.md
